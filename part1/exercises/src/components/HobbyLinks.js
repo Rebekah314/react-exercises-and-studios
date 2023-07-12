@@ -4,7 +4,7 @@ export default function HobbyLinks() {
     const hobbyLinks = ["https://organize365.com/", "https://drmindypelz.com/"];
 
     return(
-        <div>
+        <div className="hobbies">
             <h3>Links for My Hobbies</h3>
             <ul>
                 <li><label>Personal Organization: <a href = {hobbyLinks[0]}>Organize 365</a></label></li>

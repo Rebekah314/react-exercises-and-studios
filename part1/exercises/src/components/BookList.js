@@ -10,18 +10,10 @@ export default function BookList() {
    return (
       <div>
          <h3 className = {classes.bookHeading}>{pageTitle}</h3>
-         <table>
-            <tr>
-               <td>
-               <img src={book1} alt="Harry Potter Book 5 cover image" />
-               </td>
-               <td>
-               <img src={book2} alt="Harry Potter Book 6 cover image" />
-               </td>
-               <td>
-               <img src={book3} alt="Harry Potter Book 7 cover image" />
-               </td>
-            </tr></table>
+         <img src={book1} alt="Harry Potter Book 5 cover image" />
+         <img src={book2} alt="Harry Potter Book 6 cover image" />
+         <img src={book3} alt="Harry Potter Book 7 cover image" />
+          
 
       </div>      
    );
