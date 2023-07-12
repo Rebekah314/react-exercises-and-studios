@@ -1,0 +1,13 @@
+
+
+ .bookHeading {
+    color: maroon;
+    font-size: 40px;
+    font-family: 'Lucida Grande';
+    text-decoration: dotted underline;
+ }
+
+ img {
+    width: 80%;
+    padding: 20px
+ }

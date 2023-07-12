@@ -1,7 +1,13 @@
 .choresText {
-   color: black;
+   color: brown;
+   font-size: 25px;
+   font-family: 'Lucida Grande';
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   color: brown;
+   font-size: 40px;
+   font-family: 'Lucida Grande';
+   text-decoration: underline;
 }
