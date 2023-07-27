@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Harry Potter and the Half Blood Prince",
+        "author": "J. K. Rowling",
+        "yearPublished": "2005",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/b5/Harry_Potter_and_the_Half-Blood_Prince_cover.png"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J. K. Rowling",
+        "yearPublished": "2007",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg"
+    },
+    {
+        "title": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "yearPublished": "2013",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Americanah_book_cover.jpg"
+    },
+    {
+        "title": "The Goldfinch",
+        "author": "Donna Tartt",
+        "yearPublished": "2013",
+        "coverImage": "https://i.huffpost.com/gadgets/slideshows/426472/slide_426472_5504728_free.jpg"
+    },
+    {
+        "title": "Drink",
+        "author": "Ann Dowsett Johnston",
+        "yearPublished": "2013",
+        "coverImage": "https://i.huffpost.com/gadgets/slideshows/426472/slide_426472_5507750_free.jpg"
+    }
+]
